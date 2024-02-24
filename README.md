@@ -13,17 +13,17 @@ Instructions
      
        a. In your GCP Console, navigate to Cloud Storage.
 
-       b. Create a new bucket in the "us-central" region (important for AutoML compatibility).
+       b. Create a new bucket in the "us-central" region (important for AutoML compatibility)
+     
+  3. Upload Data: Upload the downloaded face recognition dataset folder to your Cloud Storage bucket.
 
-  4. Upload Data: Upload the downloaded face recognition dataset folder to your Cloud Storage bucket.
-
-  5. Create Vertex AI Notebook:
+  4. Create Vertex AI Notebook:
      
         a. Go to the Vertex AI Workbench section of your GCP Console.
      
         b. Create a new user-managed notebook.
 
-  7. Prepare Data:
+  5. Prepare Data:
 
         a. Open the notebook you created.
      
@@ -37,7 +37,7 @@ Instructions
      
              c. Create a CSV file with columns for image paths (gcs_uri) and labels.
 
-  9. Create Vertex AI Dataset:
+  6. Create Vertex AI Dataset:
       
         a. Navigate to Vertex AI Datasets.
      
