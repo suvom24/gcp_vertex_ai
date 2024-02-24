@@ -4,8 +4,8 @@ Steps for Building end to end pipeline for Face Recognition Dataset
 
 Prerequisites
   1. A Google Cloud Platform (GCP) project with billing enabled.
-  1. A Kaggle account to download the face recognition dataset.
-  2. 
+  2. A Kaggle account to download the face recognition dataset.
+     
 Instructions
   1. Download Dataset: Download the "Face Recognition Dataset" from Kaggle (https://www.kaggle.com/datasets/cybersimar08/face-recognition-dataset).
 
